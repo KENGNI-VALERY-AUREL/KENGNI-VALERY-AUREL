@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KENGNI-VALERY-AUREL
 - 👀 I’m interested in data visualisation and computer programming
-- 🌱 I’m currently learning Spring boot and pandas (python), power bi
-- 💞️ I’m looking to collaborate on spring boot, spring data
+- 🌱 I’m learning pandas (python), power bi
+- 💞️ I’m looking to collaborate on spring boot, spring data projects
 - 📫 How to reach me kengnivalery2@gmail.com, +237 695 98 66 46
 
 <!---
